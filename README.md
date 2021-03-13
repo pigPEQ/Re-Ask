@@ -1,8 +1,4 @@
-<h2><a href="https://github.com/pigPEQ/Re-Ask"><img src="Imgs/01.jpg" alt="扪心自问""></a></h2>
-  
-## *项目简介*
-问题驱动学习，利用每天的零碎时间get几个知识点，岂不是美滋滋。这件事的意义在于长期地积累这些零碎的知识点有助于形成个人的知识体系，更重要的是在此过程中能够培养自身提问一个高质量的问题与独立自主解决问题的能力。问题参考链接来源[【前端面试每日3+1】](https://github.com/haizlin/fe-interview)与[【壹题】](https://github.com/Advanced-Frontend/Daily-Interview-Question),[在线阅读更流畅](https://www.pigpeggy.club/2019/12/05/Re-Ask/)
-> *author：pigPEQ*  
+<h2><a href="https://github.com/pigPEQ/Re-Ask"><img src="Imgs/01.jpg" alt="扪心自问""></a></h2> 
   
 ---
   
